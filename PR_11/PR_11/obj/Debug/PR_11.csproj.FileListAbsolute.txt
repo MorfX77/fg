@@ -1,0 +1,11 @@
+C:\Users\Morf\Desktop\PR_11\PR_11\obj\Debug\PR_11.csproj.AssemblyReference.cache
+C:\Users\Morf\Desktop\PR_11\PR_11\obj\Debug\PR_11.Form1.resources
+C:\Users\Morf\Desktop\PR_11\PR_11\obj\Debug\PR_11.Properties.Resources.resources
+C:\Users\Morf\Desktop\PR_11\PR_11\obj\Debug\PR_11.csproj.GenerateResource.cache
+C:\Users\Morf\Desktop\PR_11\PR_11\obj\Debug\PR_11.csproj.CoreCompileInputs.cache
+C:\Users\Morf\Desktop\PR_11\PR_11\bin\Debug\PR_11.exe.config
+C:\Users\Morf\Desktop\PR_11\PR_11\bin\Debug\PR_11.exe
+C:\Users\Morf\Desktop\PR_11\PR_11\bin\Debug\PR_11.pdb
+C:\Users\Morf\Desktop\PR_11\PR_11\obj\Debug\PR_11.exe
+C:\Users\Morf\Desktop\PR_11\PR_11\obj\Debug\PR_11.pdb
+C:\Users\Morf\Desktop\PR_11\PR_11\obj\Debug\PR_11.Help.resources
